@@ -1,0 +1,27 @@
+body {
+	background-color:fuchsia;
+}
+p {
+	color:#660066;
+}
+p#lucy {
+	color:red;
+}
+p.bell {
+	color:orange;
+}
+p.hello {
+	color:yellow;
+}
+p.world{
+	color:lime;
+}
+p.im{
+	color:aqua;
+}
+p.super{
+	color:indigo;
+}
+p.cool{
+	color:purple;
+}
