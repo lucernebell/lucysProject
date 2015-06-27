@@ -1,10 +1,7 @@
 body {
 	background-color:#FF66FF;
 }
-p {
-	color:#FF00;
-}
-p#lucy {
+p.lucy {
 	color:red;
 }
 p.bell {
